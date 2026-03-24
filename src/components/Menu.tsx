@@ -89,6 +89,7 @@ function Menu({ onGenerateImage }: MenuProps) {
       "Usando lápiz labial": false,
       Joven: false,
       Masculino: false,
+      negro: false,
     },
   });
 

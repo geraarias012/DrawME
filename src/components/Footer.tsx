@@ -43,7 +43,7 @@ function Footer() {
                 <a href="#">sromana1801@alumno.ipn.mx</a>
               </li>
               <li>
-                <a href="#">gerardo@alumno.ipn.mx</a>
+                <a href="#">gariasm2101@alumno.ipn.mx</a>
               </li>
             </ul>
           </div>
